@@ -1,1 +1,1 @@
-prints absolute pathname of directory
+script that createsa directory inside a directory
