@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -la ..
+cd /0x00-shell_basics
+ echo "ls -la .."
